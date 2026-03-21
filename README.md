@@ -51,3 +51,5 @@ Open [http://localhost:3000](http://localhost:3000).
 3. Paint 5 pixels within 1 minute using one user, then attempt a 6th paint.
 4. Confirm the 6th paint is rejected with a cooldown message.
 5. Wait until cooldown expires, then confirm painting succeeds again.
+
+##I make with Aditya Thakkar.
