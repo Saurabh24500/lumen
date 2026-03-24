@@ -53,3 +53,4 @@ Open [http://localhost:3000](http://localhost:3000).
 5. Wait until cooldown expires, then confirm painting succeeds again.
 
 ##I make with Aditya Thakkar.
+## This is officialy repo of Aditya Thakkar but when i was learning supabase that time a copy this and change api of his to my so all data also collect by me.
