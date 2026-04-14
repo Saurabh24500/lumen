@@ -35,7 +35,7 @@ Then enable Realtime for `public.pixel_cells`:
 npm install
 npm run dev
 ```
-
+For locally run...
 Open [http://localhost:3000](http://localhost:3000).
 
 ## Notes
