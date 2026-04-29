@@ -55,4 +55,4 @@ Open [http://localhost:3000](http://localhost:3000).
 ##I make with Aditya Thakkar.
 # I changed nothing in it just clone it and change the backend of supabase.
 # This is officialy repo of Aditya Thakkar but when i was learning supabase that time a copy this and change api of his to my so all data also collect by me.
-# Good to use learn with real work
+# Good to use learn with real work and i learn many new things through this.
